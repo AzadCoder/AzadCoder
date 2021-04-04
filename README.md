@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzadCoder
 - 👀 I’m interested in Programming, Books
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
