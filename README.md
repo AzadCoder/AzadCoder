@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AzadCoder
 - 👀 I’m interested in Programming, Books
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Node Js
 
 <!---
 AzadCoder/AzadCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
